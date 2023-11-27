@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    height: 100%;
     width: 100%;
     font-family: 'Russo One', sans-serif;
     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("img/background3.jpg");
